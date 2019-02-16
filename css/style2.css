@@ -1,0 +1,148 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 15, 2017, 12:29:45 PM
+    Author     : MyPc
+*/
+@font-face {
+    font-family: 'rupee';
+    src: url("../fonts/Rupee_Foradian.ttf");
+}
+
+.tmenu{
+    width: 100%;
+    text-align: -webkit-center;
+}
+
+.ulmenu{
+    background-color: black; 
+}
+
+.rupee{
+    font-family: rupee;
+}
+
+::selection {
+    color: white;
+    background: #36c2f7;
+}
+
+.t-rupee{
+    font-family: rupee;
+    float: left;
+    margin-right: 1%;
+}
+
+
+a{
+    color: #36c2f7;
+    -webkit-transition: 0.5s, ease;
+    -o-transition: 0.5s, ease;
+    transition: 0.5s, ease;
+}
+
+.row2{
+    background-position-y: 51%;
+    background-size: cover;
+    padding: 5%;
+    margin: 0px;
+    float: left;
+    width: 100%;
+    background-image: url(../images/bg/pk-bg.jpg);
+}
+
+.f-row{
+    background-position-y: 51%;
+    background-size: cover;
+    padding: 5%;
+    margin: 0px;
+    float: left;
+    width: 100%;
+    background-image: url(../images/bg/ft_bg.jpg);
+}
+
+.pk-top-text{
+    margin-left: 40%;
+
+}
+
+.top-img-text{
+    text-align: right;
+    float: right;
+}
+
+.r-left{
+    float: left;
+    margin-top: 3%;
+    padding-bottom: 2%;
+    background-color: #84c5d2;
+    border: 4px solid white;
+}
+.r-right{
+    float: left;
+    margin-top: 3%;
+    padding-bottom: 2%;
+    background-color: #84c5d2;
+    border: 4px solid white;
+}
+.pk-title{
+    text-align: -webkit-center;
+    margin-bottom: 3%;
+    color: white;
+    padding: 1%;
+    border-bottom: 5px solid darkslategrey;
+    font-size: 25px;
+    background-color: cadetblue;
+}
+.list-place{
+    padding: 0% 3%;
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.place{
+    float: left;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.days{
+    float: right;
+    color: black;
+    font-size: 15px;
+}
+.loc-icon{
+    color: blue;
+    font-size: 20px;
+}
+
+.pl-bt{
+    text-align: center;
+    width: 100%;
+    float: left;
+    margin-top: -2%;
+}
+
+.btn-pk.btn-outline-pk {
+    background: transparent;
+    color: #40474a;
+    padding: 1%;
+    border: 2px solid #454d50 !important;
+}
+.btn-pk.btn-outline-pk:hover {
+    background: #454d50;
+    color: white;
+    padding: 1%;
+    border: 2px solid #454d50 !important;
+}
+
+
+.f-day{
+    margin-top: 17%;
+    margin-left: -15%;
+}

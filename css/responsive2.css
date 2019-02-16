@@ -1,0 +1,106 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2017, 2:38:08 PM
+    Author     : MyPc
+*/
+
+
+
+@media only screen and (max-width: 880px) {
+
+}
+
+
+
+
+@media only screen and (max-width: 640px) {
+
+    .tabulation {
+        margin-top: -35%;
+    }
+
+}
+
+
+
+
+@media only screen and (max-width: 375px) {
+
+    .tabulation {
+        margin-top: -75%;
+    }
+}
+
+
+
+@media only screen and (max-width: 568px) {
+
+    .tabulation {
+        margin-top: -55%;
+    }
+
+}
+@media only screen and (min-width: 768px) {
+
+    .pk-top{
+        margin-top: 8%;
+    }
+    .tabulation {
+        margin-top: -59%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+
+    .pk-top{
+        margin-top: 10%;
+    }
+
+    .tabulation {
+
+        margin-top: -95%;
+    }
+
+    .desc2{
+        display: block;
+    }
+
+}
+
+@media only screen and (min-width: 1024px) {
+
+    .pk-top{
+        margin-top: 0%;
+    }
+
+    .tabulation {
+        margin-top: -20%;
+    }
+    .fh5co-cover .desc {
+        top: 30%;    
+    }
+
+}
+
+@media only screen and (min-width: 1440px) {
+
+    .pk-top{
+        margin-top: 0%;
+    }
+
+    .tabulation {
+        margin-top: -20%;
+    }
+    .fh5co-cover .desc {
+        top: 30%;    
+    }
+}
+
+@media only screen and (min-width: 2960px) {
+
+
+}
